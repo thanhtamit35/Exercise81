@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tiltle_list">Danh sách nhân viên</string>
+    <string name="fullname">Họ và tên:</string>
+    <string name="add_new">Thêm mới</string>
+    <string name="print_list">in danh sách</string>
+</resources>
