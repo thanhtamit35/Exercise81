@@ -4,4 +4,6 @@
     <string name="fullname">Họ và tên:</string>
     <string name="add_new">Thêm mới</string>
     <string name="print_list">in danh sách</string>
+    <string name="female">Nữ</string>
+    <string name="male">Nam</string>
 </resources>
